@@ -59,7 +59,7 @@ USER_REPLY_TEXT = f"Don't Text here I am just a File Share Bot"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(6010210037)
-ADMINS.append(659124762)
+# ADMINS.append(659124762)
 ADMINS.append(6481111170)
 
 LOG_FILE_NAME = "filesharingbot.txt"
